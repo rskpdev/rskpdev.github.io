@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -15,7 +15,7 @@ author:
   name:           'Rahul Polisetti'
   url:            https://github.com/rskpdev
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          1.0.0
