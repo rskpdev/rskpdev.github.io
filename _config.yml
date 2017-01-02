@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            rskpdev
+tagline:          
+description:      'Welcome to the website of <a href="https://github.com/rskpdev" target="_blank">Rahul Polisetti</a>.'
+url:              rskpdev.github.io
+baseurl:          /
+
+author:
+  name:           'Rahul Polisetti'
+  url:            https://github.com/rskpdev
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:           https://github.com/rskpdev
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
