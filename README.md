@@ -1,7 +1,7 @@
 # About
 testing gitpod service
 
-A personal website built using [Jekyll](http://jekyllrb.com) and based on [Poole](http://getpoole.com)
+A personal website built using [Jekyll](http://jekyllrb.com) and based on [hydeout](https://github.com/fongandrew/hydeout)
 
 ## License
 
