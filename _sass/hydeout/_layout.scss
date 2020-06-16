@@ -25,6 +25,7 @@
 body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
+  background-image: none;
   color: $sidebar-text-color;
   display: flex;
   flex-direction: column;
