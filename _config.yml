@@ -6,7 +6,7 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            RSKPdev
 tagline:          'A Weblog'
-description:      'A personal Weblog hosted of Github pages.'
+description:      'A personal Weblog hosted on Github pages.'
 url:              https://rskpdev.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
