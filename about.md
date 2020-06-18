@@ -4,10 +4,5 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hi! I'm <strong>Rahul Polisetti</strong>. I am currently working as an LTE Modem Firmware Engineer with interests in Embedded Systems, RTOS, IOT,
+and Computer Architecture. All opinions are mine.
